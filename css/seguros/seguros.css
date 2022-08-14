@@ -38,6 +38,7 @@
 }
 
 .seguros-item li {
+    color: var(--cor-00);
     display: flex;
     align-items: center;
     position: relative;
