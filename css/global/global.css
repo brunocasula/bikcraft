@@ -11,12 +11,12 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: "Poppins", "Roboto", Arial, Helvetica, sans-serif;
-    color: #111;
+    /* color: #111; */
 }
 
-body {
+/* body {
     padding-bottom: 600px;
-}
+} */
 
 ul {
     list-style: none;
