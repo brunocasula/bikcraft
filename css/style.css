@@ -1,11 +1,13 @@
 @import "./global/global.css";
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
+@import "./utilidades/animacao.css";
 
 @import "./global/header.css";
 
 /* Utilidades */
 @import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
 @import "./utilidades/formulario.css";
 
 /* Home */
